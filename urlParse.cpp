@@ -10,7 +10,7 @@ int main(int num, char* arg[])
     // prompt to request input from the user
     cout << "Please enter the url you want to parse" << endl;
     cin >> url;
-
+// This is comment
     
     string acceptedProtocol[] = { "http","https","ftp","ftps" };
     int i = 0;
