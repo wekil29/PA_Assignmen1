@@ -1,0 +1,12 @@
+Script started on 2021-09-22 22:27:23-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;wakil@wakil-VirtualBox: ~[01;32mwakil@wakil-VirtualBox[00m:[01;34m~[00m$ pwdcd doc/usr/share[6Ptmpvarls[C[C[C[C[C[1Pecho ~[1Pls -aexport PATH=blah[6Pcho $PATH[5Pls -rmkdir blahbash surface_of_a_rectangle.sh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kg++ urlParse.cpp -o url
+]0;wakil@wakil-VirtualBox: ~[01;32mwakil@wakil-VirtualBox[00m:[01;34m~[00m$ ./ur;[Kl
+https://cs.utdallas.edu:80/directory/faculty/people.html?name=Robert
+protocol:   https
+Domain: cs.utdallas.edu
+Port: 80
+File Path: /directory/faculty/people.html
+Parameters: name=Robert
+]0;wakil@wakil-VirtualBox: ~[01;32mwakil@wakil-VirtualBox[00m:[01;34m~[00m$ exit
+
+Script done on 2021-09-22 22:28:02-05:00 [COMMAND_EXIT_CODE="0"]
